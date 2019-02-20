@@ -1,6 +1,6 @@
 # Flask Request logger
 
-**You're going to build your first REST API!** Seriously, and you'll see how simple it is.
+**We're going to build your first REST API!** .
 
 In this assignment you have to build a system that saves (logs) all the requests that it receives. It has two simple endpoints. One of them is `/home`. **ANY** valid request to `/home` should be stored in a database. And then we have `/dashboard` that basically creates a report of all the requests that `/home` has received. Suppose that we send the following requests:
 
